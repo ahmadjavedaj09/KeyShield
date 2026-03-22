@@ -1,13 +1,15 @@
-# 🛡️ KeyShield — Keylogger Detection & Defense Tool
+# 🛡️ KeyShield: Keylogger Detection & Defense Tool
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational%20%2F%20Defensive%20Security-orange)
+<img width="1410" height="1078" alt="image" src="https://github.com/user-attachments/assets/547c1223-a7a3-48ea-955c-5b1e85999f7a" />
+
 
 A professional, cross-platform **keylogger detection and defense tool** built for cybersecurity education and system protection. KeyShield scans your system for indicators of keystroke logging activity and generates detailed security reports.
 
-> ⚠️ **Educational & Defensive Use Only** — This tool is designed to **detect and defend** against keyloggers, not to create them. Use responsibly and only on systems you own or have explicit permission to scan.
+> ⚠️ **Educational & Defensive Use Only** This tool is designed to **detect and defend** against keyloggers, not to create them. Use responsibly and only on systems you own or have explicit permission to scan.
 
 ---
 
