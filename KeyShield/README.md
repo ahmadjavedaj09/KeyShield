@@ -1,10 +1,11 @@
 # 🛡️ KeyShield: Keylogger Detection & Defense Tool
+**By Ahmad Javed AJ**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational%20%2F%20Defensive%20Security-orange)
-<img width="1410" height="1078" alt="image" src="https://github.com/user-attachments/assets/547c1223-a7a3-48ea-955c-5b1e85999f7a" />
+<img width="1410" height="1078" alt="image" src="https://github.com/user-attachments/assets/80d27d69-6b4a-4fe6-a6b2-c981c3f1f609" />
 
 
 A professional, cross-platform **keylogger detection and defense tool** built for cybersecurity education and system protection. KeyShield scans your system for indicators of keystroke logging activity and generates detailed security reports.
@@ -178,4 +179,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-Built as part of a cybersecurity internship project focused on **defensive security tooling**.
+**Ahmad Javed AJ**.
